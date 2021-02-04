@@ -1,0 +1,3 @@
+[submodule "OpenSourceSubModule"]
+	path = OpenSourceSubModule
+	url = https://github.com/krunchyMonkey/OpenSourceSubModule.git
